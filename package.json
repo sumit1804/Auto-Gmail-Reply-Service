@@ -1,0 +1,15 @@
+{
+  "name": "auto-gmail-reply-service",
+  "version": "1.0.0",
+  "description": "automatic gmail reply service to unread email with no reply",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^129.0.0"
+  }
+}
